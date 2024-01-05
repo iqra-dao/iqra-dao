@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain services and NFT**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/atiul2.0](linktr.ee/atiul2.0)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/atiul2.0](https://linktr.ee/atiul2.0)
 
 - 💬 Ask me about **New nft project and crypto related**
 
